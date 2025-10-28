@@ -5,7 +5,7 @@ Every number in this dataset tells a story about customer behavior, business str
 ---
 
 ## 🖼 Dashboard Overview  
-![Bookstore Dashboard](images/dashboard.png)
+![Bookstore Dashboard](dashboard.png)
 
 ---
 
