@@ -46,17 +46,3 @@ These findings can drive real business improvements:
 ✅ Introduce a loyalty rewards system for top customers.  
 ✅ Increase stock for Clothing & Beauty before holiday seasons.  
 
----
-
-## ✅ How to Use This Repository  
-1. Place `dashboard.png` inside an `images` folder in your repo.  
-2. Ensure the README references the image as `images/dashboard.png`.  
-3. Commit and push to GitHub — the image will render correctly.  
-
----
-
-### ✅ Next Steps  
-Would you like me to:  
-- **Generate a downloadable `README.md` file with this content?**  
-- **Add GitHub badges and sections like Installation, Usage, and SQL Queries?**  
-- **Include links to the raw SQL and dashboard JSON files for interactive use?**  
