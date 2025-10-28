@@ -5,11 +5,7 @@ Every number in this dataset tells a story about customer behavior, business str
 ---
 
 ## 🖼 Dashboard Overview  
-C:/Users/Prince/Downloads/dashboard.png
-
----
-
-### 1️⃣ Setting the Scene  
+![Bookstore Dashboard](images# 1️⃣ Setting the Scene  
 A mid-sized retail company wanted to understand why some months had strong sales while others were weak.  
 They collected transaction data from their stores — including sales dates, customer ages, product categories, and total sales amounts.  
 
@@ -52,7 +48,15 @@ These findings can drive real business improvements:
 
 ---
 
-## ✅ Next Steps  
+## ✅ How to Use This Repository  
+1. Place `dashboard.png` inside an `images` folder in your repo.  
+2. Ensure the README references the image as `images/dashboard.png`.  
+3. Commit and push to GitHub — the image will render correctly.  
+
+---
+
+### ✅ Next Steps  
 Would you like me to:  
-- **Generate a downloadable README.md file?**  
+- **Generate a downloadable `README.md` file with this content?**  
 - **Add GitHub badges and sections like Installation, Usage, and SQL Queries?**  
+- **Include links to the raw SQL and dashboard JSON files for interactive use?**  
